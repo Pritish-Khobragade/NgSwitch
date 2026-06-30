@@ -76,6 +76,7 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover {
+    
   background: #f3f4f6;
 }
 
