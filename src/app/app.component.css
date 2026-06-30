@@ -7,7 +7,7 @@
 }
 
 div {
-  max-width: 900px;
+  max-width: 901px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
 }
@@ -76,7 +76,7 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover {
-    
+
   background: #f3f4f6;
 }
 
